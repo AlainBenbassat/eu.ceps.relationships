@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<extension key="eu.ceps.relationships" type="module">
+  <file>relationships</file>
+  <name>CEPS Relationships</name>
+  <description>Hacks the relationship tab to show custom fields</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Alain Benbassat</author>
+    <email>alain@businessandcode.eu</email>
+  </maintainer>
+  <urls>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-07-18</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments>This is a template overwrite! Make sure it works when you upgrade CiviCRM.</comments>
+  <civix>
+    <namespace>CRM/Relationships</namespace>
+  </civix>
+</extension>
